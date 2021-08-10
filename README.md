@@ -1,5 +1,8 @@
-nervosTask3
+# nervosTask3
+
 1 - A screenshot of the console output immediately after you have successfully issued a smart contract call
+![image](https://user-images.githubusercontent.com/5809685/128897176-917f83e8-749b-4adf-a772-141ea55abe9d.png)
+
 
 
 2 - The transaction hash from the console output (in text format). 
